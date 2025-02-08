@@ -4,18 +4,22 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
+    background-color: bisque;
   }
   
+
   .container {
     text-align: center;
   }
   
   label {
+    font-size: larger;
     display: block;
     margin-bottom: 10px;
   }
   
   select {
+    font-size: medium;
     padding: 5px;
     margin-bottom: 20px;
   }
@@ -28,3 +32,5 @@ body {
     margin-top: 20px;
   }
   
+
+
